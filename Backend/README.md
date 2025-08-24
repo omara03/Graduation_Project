@@ -2,6 +2,7 @@
 
 ### 1️⃣ Clone the repository
 git clone https://github.com/omara03/Graduation_Project.git
+
 cd Graduation_Project
 
 ### 2️⃣ Start PostgreSQL with Docker
@@ -14,4 +15,5 @@ mvn clean install
 
 ### 4️⃣ Run a Backend Service
 cd service-name
+
 mvn spring-boot:run
