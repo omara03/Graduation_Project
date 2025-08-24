@@ -1,0 +1,81 @@
+[
+    {
+        "id": 0,
+        "methodology": "string",
+        "overview": "string",
+        "coreFunctionalities": "string",
+        "nonFunctionalRequirements": "string",
+        "userStory": "string",
+        "businessRequirements": "string",
+        "stakeholders": [
+            {
+                "id": 0,
+                "name": "string",
+                "description": "string",
+                "survey": "string"
+            }
+        ],
+        "projectName": "string",
+        "interviewNotes": "string"
+    },
+    {
+        "id": 1,
+        "methodology": "string",
+        "overview": "string",
+        "coreFunctionalities": "string",
+        "nonFunctionalRequirements": "string",
+        "userStory": "string",
+        "businessRequirements": "string",
+        "stakeholders": [
+            {
+                "id": 1,
+                "name": "string",
+                "description": "string",
+                "survey": "string"
+            }
+        ],
+        "projectName": "string",
+        "interviewNotes": "string"
+    },
+    {
+        "id": 2,
+        "methodology": "string",
+        "overview": "string",
+        "coreFunctionalities": "string",
+        "nonFunctionalRequirements": "string",
+        "userStory": "string",
+        "businessRequirements": "string",
+        "stakeholders": [
+            {
+                "id": 2,
+                "name": "string",
+                "description": "string",
+                "survey": "string"
+            }
+        ],
+        "projectName": "string",
+        "interviewNotes": "string"
+    }
+]
+
+
+
+{
+    "id": 45,
+    "model": null,
+    "methodology": "string",
+    "overview": "stringdasdas",
+    "coreFunctionalities": "stringdasdas",
+    "nonFunctionalRequirements": "{\n  \"nonfunctional\": {\n    \"Performance\": \"asdasda\",\n    \"Scalability\": \"adsdasdasd\",\n    \"Availability\": \"asdklkn\",\n    \"Reliability\": \";lkn;\",\n    \"Usability\": \"lkj\",\n    \"Security\": \"lkj\",\n    \"Maintainability\": \"lk\",\n    \"Interoperability\": \"jlk\",\n    \"Compatibility\": \"jl\",\n    \"Data Handling\": \"kjl\",\n    \"Compliance\": \"kjl\",\n    \"Localization\": \"kj\"\n  }\n}",
+    "userStory": "stringasdasd",
+    "businessRequirements": "stringdasdasd",
+    "stakeholders": [
+        {
+            "id": 60,
+            "name": null,
+            "description": "stringlkj"
+        }
+    ],
+    "projectName": "ads",
+    "interviewNotes": "dasdas"
+}

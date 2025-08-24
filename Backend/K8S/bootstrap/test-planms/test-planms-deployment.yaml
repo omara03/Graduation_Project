@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: test-planms
+  labels:
+    app: test-planms
+spec:
+  replicas: 1
+  template:
+    metadata:
+      name: test-planms
+      labels:
+        app: test-planms
+    spec:
+      containers:
+        - name: test-planms
+          image: momoharrum/test-planms:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8083
+          env:
+            - name: SPRING_PROFILES_ACTIVE
+              value: k8s
+      restartPolicy: Always
+  selector:
+    matchLabels:
+      app: test-planms
