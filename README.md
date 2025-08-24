@@ -1,7 +1,8 @@
 # 📘 Project Creation Assistant (PICA)
 
-PICA is a full-stack web application that automates the generation of complete **software documentation** for software engineering projects.  
-It helps teams produce structured **SRS (Agile or IEEE 830)** and **Test Plans (IEEE 829)** with minimal effort, using **AI-powered generation** and **diagram automation**.
+**PICA** is a full-stack web application built on a **microservice architecture** that automates the generation of complete **software documentation** for software engineering projects.  
+It enables teams to quickly produce structured **Software Requirement Specifications (SRS)** (Agile or IEEE 830) and **Test Plans** (IEEE 829) with minimal effort.  
+The system integrates **AI-powered content generation** and **diagram automation** to deliver fast, scalable, and consistent documentation.  
 
 ---
 
