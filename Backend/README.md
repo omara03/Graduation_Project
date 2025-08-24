@@ -5,12 +5,12 @@ git clone https://github.com/omara03/Graduation_Project.git
 
 cd Graduation_Project
 
+cd Backend
+
 ### 2️⃣ Start PostgreSQL with Docker
 docker-compose up -d
 
 ### 3️⃣ Build the Backend (Spring Boot Microservices)
-cd Backend
-
 mvn clean install
 
 ### 4️⃣ Run a Backend Service
