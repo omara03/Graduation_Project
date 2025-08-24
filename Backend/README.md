@@ -9,6 +9,7 @@ docker-compose up -d
 
 ### 3️⃣ Build the Backend (Spring Boot Microservices)
 cd Backend
+
 mvn clean install
 
 ### 4️⃣ Run a Backend Service
